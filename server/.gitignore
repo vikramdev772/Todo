@@ -1,0 +1,5 @@
+.env
+node_modules
+
+# On Windows: netstat -ano | findstr :3000
+# On macOS/Linux: lsof -i :3000
